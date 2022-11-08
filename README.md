@@ -2,4 +2,4 @@
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 
-here Project Design phase folder contains Project Degin and Planning files also
+here PROJECT AND DESIGN PHASE folder contains PROJECT DESGIN & PLANNING files also
