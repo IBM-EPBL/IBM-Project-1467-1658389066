@@ -1,5 +1,15 @@
-# IBM-Project-1467-1658389066---> NOTE : Instead of renaming PROJECT AND DESIGN PHASE folder as PROJECT DESIGN AND PLANNING folder a new folder is created recently.
+# IBM-Project-1467-1658389066
 
 AI-powered Nutrition Analyzer for Fitness Enthusiasts.
 
+Malan V S   - Team Lead
+
+
+Yashwin M   - Teammate
+
+
+Vishaal P S - Teammate
+
+
+Saran S     - Teammate
 
